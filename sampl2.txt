@@ -1,0 +1,2 @@
+to check the reset command
+reset change done
