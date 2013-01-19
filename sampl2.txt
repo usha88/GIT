@@ -1,2 +1,3 @@
 to check the reset command
 reset change done
+fidning the changes for reset.

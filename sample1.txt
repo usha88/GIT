@@ -2,3 +2,4 @@ this is a new file added into the GIT directory.
 to chech modifications
 to chech for diff HEAD
 commit -am change
+reset change
