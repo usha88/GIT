@@ -3,3 +3,4 @@ to chech modifications
 to chech for diff HEAD
 commit -am change
 reset change
+stash changes done to check.
