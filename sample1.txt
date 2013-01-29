@@ -10,3 +10,4 @@ stashing...
 reset changue
 to check the stash command.
 >>>>>>> Stashed changes
+to test whether removals branch smpl1 file chnages reflects in local repo or not.
